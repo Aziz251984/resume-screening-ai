@@ -1,0 +1,33 @@
+# Python specific ignores
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# virtualenv
+.venv/
+
+# Environment Variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
